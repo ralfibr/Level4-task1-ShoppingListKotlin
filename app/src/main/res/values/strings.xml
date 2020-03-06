@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shopping List Kotlin</string>
+    <string name="action_settings">Settings</string>
+    <string name="whatToBuy">What to buy?</string>
+    <string name="howmany">How many?</string>
+    <string name="incorect" >Please fill in the fields</string>
+    <string name="fillNumber"> Please fill a number in how many input</string>
+</resources>
